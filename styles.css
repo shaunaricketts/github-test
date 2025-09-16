@@ -1,0 +1,22 @@
+	
+h1 {
+  color: #BAB86C;
+  font-size: 36px;
+  font-weight: bolder;
+  font-style: Monaco;
+}
+
+p {
+	color: #black;
+	font-size: 14;
+}
+
+
+* {
+	background-color: lightpink;
+}
+
+li {
+  font-style: italic;
+}
+
